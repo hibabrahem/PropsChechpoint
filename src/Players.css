@@ -1,0 +1,12 @@
+.cartee {
+    display: flex;
+}
+
+#titre {
+    color: brown;
+}
+#name{color:rgb(84, 84, 213);}
+#age {
+    color:rgb(25, 143, 143);
+}
+.text{color: crimson;}
